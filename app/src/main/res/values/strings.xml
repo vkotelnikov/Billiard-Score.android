@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Billiard Score</string>
+    <string name="plusbutton">+</string>
+    <string name="minusbutton">-</string>
+    <string name="score">"0</string>
+    <string name="partscore">0</string>
+
 </resources>
